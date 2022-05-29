@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+provider:
+  rest-url:
+    group: http://localhost:8001/group
